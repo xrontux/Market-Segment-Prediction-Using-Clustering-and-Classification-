@@ -12,3 +12,5 @@ This has created new challenges where there is now a larger, less homogenous con
 
 This bring our motivation behind this project which is that effective customer segmentation and value prediction is a key competitive advantage for business
 
+
+Public Datset from Kaggle 
